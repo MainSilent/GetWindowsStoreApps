@@ -1,0 +1,10 @@
+E:\Projects\ListInstalledMetroPackages\bin\Release\GetWindowsStoreApps.exe.config
+E:\Projects\GetWindowsStoreApps\bin\Release\GetWindowsStoreApps.exe.config
+E:\Projects\GetWindowsStoreApps\bin\Release\GetWindowsStoreApps.exe
+E:\Projects\GetWindowsStoreApps\bin\Release\GetWindowsStoreApps.pdb
+E:\Projects\GetWindowsStoreApps\obj\Release\GetWindowsStoreApps.csprojResolveAssemblyReference.cache
+E:\Projects\GetWindowsStoreApps\obj\Release\GetWindowsStoreApps.exe
+E:\Projects\GetWindowsStoreApps\obj\Release\GetWindowsStoreApps.pdb
+E:\Projects\GetWindowsStoreApps\bin\Release\Newtonsoft.Json.dll
+E:\Projects\GetWindowsStoreApps\bin\Release\Newtonsoft.Json.xml
+E:\Projects\GetWindowsStoreApps\bin\Release\System.Json.xml
